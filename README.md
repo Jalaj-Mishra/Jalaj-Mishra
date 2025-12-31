@@ -13,7 +13,7 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/><br/><br />
 <div align="center">  
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60C6F7&center=true&vCenter=true&width=435&lines=I+am+Jalaj+Mishra;Working+on+Django+FrameWork+and Automation" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=60C6F7&center=true&vCenter=true&width=435&lines=I+am+Jalaj+Mishra;Working+on+Django+FrameWork+and+Automation" alt="Typing SVG" /></a>
 </div>
 </h1>
 </div>
